@@ -80,7 +80,7 @@
     ]
   },
   "postcss": {
-   "plugins": {
+    "plugins": {
       "autoprefixer": {}
     }
   },
