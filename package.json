@@ -2,7 +2,7 @@
   "name": "portal-vue",
   "version": "3.0.0-beta.0",
   "license": "MIT",
-  "repository": "https://github.com/LinusBorg/portal-vue",
+  "repository": "https://github.com/gigasource/portal-vue",
   "author": {
     "name": "Thorsten Lünborg",
     "url": "https://github.com/LinusBorg/"
@@ -36,9 +36,6 @@
     "docs:build": "vitepress build docs",
     "lint": "eslint --fix './*.{js,ts}' 'src/**/*.{ts,tsx,vue}' 'example/**/*.{ts,tsx,vue}'",
     "test": "yarn jest --runInBand"
-  },
-  "engines": {
-    "node": ">=14"
   },
   "peerDependencies": {
     "vue": "^3.0.4"
