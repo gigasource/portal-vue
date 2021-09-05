@@ -6,4 +6,5 @@
 /tests
 /types
 netlify.toml
+.npmrc
 TODO.md
